@@ -1,0 +1,8 @@
+numpy==1.26.4
+opencv-contrib-python==4.8.0.76
+matplotlib
+pandas
+tqdm
+requests
+shapely
+scikit-learn
